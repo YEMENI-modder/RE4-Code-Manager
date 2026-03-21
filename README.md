@@ -26,12 +26,12 @@
 ---
 
 ## **لقطات من الأداة**
-![Screenshot_20260319_230820](https://github.com/user-attachments/assets/cdd18ceb-f4cd-4cb4-8cd8-225e3262d8d9)
-![Screenshot_20260319_230835](https://github.com/user-attachments/assets/cea26d4b-7918-41f2-9019-5a453d1ef9b7)
-![Screenshot_20260319_230857](https://github.com/user-attachments/assets/26c91d1d-9f43-44f6-88ee-b702402968b2)
-![Screenshot_20260319_230947](https://github.com/user-attachments/assets/ddf07677-6a95-479e-aa2f-420311ad6bce)
-![Screenshot_20260319_231008](https://github.com/user-attachments/assets/600fb734-6522-4916-95a5-740d0aa88755)
-![Screenshot_20260319_231036](https://github.com/user-attachments/assets/01f2cf29-6719-47ca-ac5f-d1734006f270)
+![Screenshot_20260321_143744](https://github.com/user-attachments/assets/229d7ff3-0262-4a7c-a399-bbc3f5b5c613)
+![Screenshot_20260321_143804](https://github.com/user-attachments/assets/43d4ddfd-98b7-4ed5-bbfe-43e994baa167)
+![Screenshot_20260321_143826](https://github.com/user-attachments/assets/e00b6293-2574-4647-9bab-5a0a682e0a1d)
+![Screenshot_20260321_143857](https://github.com/user-attachments/assets/674bd417-bdb8-47b9-bbce-e77b44cdcf4f)
+![Screenshot_20260321_143939](https://github.com/user-attachments/assets/9a2d82dc-e04e-4c08-a7c4-b0769c7d92ff)
+
 
 ---
 
